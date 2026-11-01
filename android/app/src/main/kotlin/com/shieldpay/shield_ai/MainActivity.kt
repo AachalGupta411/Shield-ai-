@@ -1,0 +1,5 @@
+package com.shieldpay.shield_ai
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
